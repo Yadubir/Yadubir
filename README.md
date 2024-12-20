@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express.JS**
 
-- 📫 How to reach me **yadubirjha2022@vitbhopal.ac.in**
+- 📫 How to reach me **yadubir12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
